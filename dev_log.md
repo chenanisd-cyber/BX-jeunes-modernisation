@@ -1,0 +1,14 @@
+- 20/04/26 : Lancement
+- 21/04/26 : Meta OG
+- 22/04/26 : Renommage image
+- 23/04/26 : Footer 2026
+- 24/04/26 : Logo span
+- 25/04/26 : Structure dossiers
+- 26/04/26 : Deplacement CSS JS
+- 27/04/26 : Deplacement images
+- 28/04/26 : Deplacement pages
+- 29/04/26 : Maj chemins
+- 30/04/26 : Nettoyage HTML index
+- 01/05/26 : Nettoyage pages legales
+- 02/05/26 : Nettoyage HTML groupes
+- 03/05/26 : Restructuration CSS
